@@ -65,7 +65,7 @@ https://live.obslivestream.com/autenticatvmux/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="MasterTV.pe" tvg-logo="https://i.imgur.com/K2ZimRv.png?width=200&height=200" group-title="VARIADOS",Master TV
 https://tv.oyotunstream.com:1936/master/master/chunklist_w1488883888.m3u8
 
-#EXTINF:-1 tvg-id="OKTEVE.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2021/07/OKTVLOG.jpg?width=200&height=200" group-title="VARIADOS",OK TV
+#EXTINF:-1 tvg-id="OKTEVE.pe" tvg-logo="https://oktelevisionhd.com/wp-content/uploads/2022/03/LOGO-OKTEVE.png?width=200&height=200" group-title="VARIADOS",OK TV
 https://stream.plixitv.live/oktv/oktv/chunklist_w2086221884.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png?width=200&height=200" group-title="VARIADOS" tvg-name="ATV",ATV
