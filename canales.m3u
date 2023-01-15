@@ -1,50 +1,50 @@
 
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="NOTICIAS" tvg-name="Best Cable TV Perú"
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="NOTICIAS" ,Best Cable TV Perú
 https://ca2.inka.net.pe/bestcable/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="DEPORTES" tvg-name="Best Cable Sports Perú"
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="DEPORTES" ,Best Cable Sports Perú
 https://ca2.inka.net.pe/bestcablesports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="MUSICALES" tvg-name="Best Cable Music Perú",Best Cable Music Perú
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="MUSICALES" ,Best Cable Music Perú
 https://ca2.inka.net.pe/bestcablemusic/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="MUSICALES" tvg-name="+Cumbia TV Perú",+Cumbia TV Perú
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="MUSICALES" ,+Cumbia TV Perú
 https://ca2.inka.net.pe/mascumbiatvonline/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="MUSICALES" tvg-name="Hatun TV Perú",Hatun TV Perú
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="MUSICALES" ,Hatun TV Perú
 https://ca2.inka.net.pe/bestcablehatuntv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/contac.png?width=200&height=200" group-title="VARIADOS" tvg-name="Atentica TV",Autentica TV
+#EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/contac.png?width=200&height=200" group-title="VARIADOS" ,Autentica TV
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/contac.png?width=200&height=200" group-title="DEPORTES" tvg-name="Contacto TV",Contacto TV
+#EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/contac.png?width=200&height=200" group-title="DEPORTES" ,Contacto TV
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://crtv.pe/wp-content/uploads/2020/11/logo.png?width=200&height=200" group-title="VARIADOS" tvg-name="CR TV",CR TV
+#EXTINF:-1 tvg-logo="https://crtv.pe/wp-content/uploads/2020/11/logo.png?width=200&height=200" group-title="VARIADOS" ,CR TV
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://geniostv.pe/wp-content/uploads/2021/07/logo2.jpg?width=200&height=200" group-title="VARIADOS" tvg-name="GeniosTV",Genios TV
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://geniostv.pe/wp-content/uploads/2021/07/logo2.jpg?width=200&height=200" group-title="VARIADOS" ,Genios TV
 https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2020/07/controversia.jpg?width=200&height=200" group-title="VARIADOS" tvg-name="Controversia TV",Controversia TV
+#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2020/07/controversia.jpg?width=200&height=200" group-title="VARIADOS" ,Controversia TV
 https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2023/01/planettva.png?width=200&height=200" group-title="VARIADOS" tvg-name="Planeta TV",Planeta TV
+#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2023/01/planettva.png?width=200&height=200" group-title="VARIADOS" ,Planeta TV
 https://live.obslivestream.com/mayotv/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="MayoTV.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/via.png?width=200&height=200" group-title="VARIADOS" tvg-name="Via Alto Mayo TV",Via Alto Mayo TV
+#EXTINF:-1 tvg-id="MayoTV.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/via.png?width=200&height=200" group-title="VARIADOS" ,Via Alto Mayo TV
 https://live.obslivestream.com/telecolormux/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="telecolortv.pe" tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png?width=200&height=200" group-title="VARIADOS" tvg-name="Telecolor TV",Telecolor TV
+#EXTINF:-1 tvg-id="telecolortv.pe" tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png?width=200&height=200" group-title="VARIADOS" ,Telecolor TV
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="mas1tv.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/mas1.png?width=200&height=200" group-title="VARIADOS" tvg-name="Mas 1 TV",Mas 1 TV
+#EXTINF:-1 tvg-id="mas1tv.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/mas1.png?width=200&height=200" group-title="VARIADOS" ,Mas 1 TV
 https://live.obslivestream.com/norselvatv/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="wtv.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png?width=200&height=200" group-title="VARIADOS" tvg-name="W TV",W TV
+#EXTINF:-1 tvg-id="wtv.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png?width=200&height=200" group-title="VARIADOS" ,W TV
 https://live.obslivestream.com/sanjuanera/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="mayotv.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2023/01/mayotv.png?width=200&height=200" group-title="VARIADOS" tvg-name="Mayo TV",Mayo TV
+#EXTINF:-1 tvg-id="mayotv.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2023/01/mayotv.png?width=200&height=200" group-title="VARIADOS" ,Mayo TV
 https://live.obslivestream.com/planetatv/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="norselvatv.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/nors.png?width=200&height=200" group-title="VARIADOS" tvg-name="NorSelva TV",NorSelva TV
