@@ -194,10 +194,10 @@ https://megastreamm.com:3611/stream/play.m3u8
 #EXTINF:-1 tvg-id="radiosanborjatv.com" tvg-logo="https://radiosanborjatv.com/wp-content/uploads/2020/12/LOGO-RSB-TV.png?width=200&height=200" group-title="VARIADOS",Radio San Borja TV (PE)
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioTVOriente.pe" tvg-logo="https://i.imgur.com/iHaFLHX.png?width=200&height=200" group-title="VARIADOS",Radio TV Oriente (Yurimaguas)
+#EXTINF:-1 tvg-id="RadioTVOriente.pe" tvg-logo="https://i.imgur.com/iHaFLHX.png?width=200&height=200" group-title="VARIADOS",Radio TV Oriente (PE)
 https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png?width=200&height=200" group-title="IPTV",RadioInka (Abancay)
+#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png?width=200&height=200" group-title="VARIADOS",Inka TV(PE)
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg?width=200&height=200" group-title="CINE",Rakuten Action Movies Spain
