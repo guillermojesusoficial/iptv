@@ -324,17 +324,17 @@ https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://i.imgur.com/vZwaV3J.png?width=200&height=200" group-title="VARIADOS",Tropical TV (Puerto Maldonado)
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TumpisTV.pe" tvg-logo="https://i.imgur.com/KZFWGwV.png?width=200&height=200" group-title="IPTV",Tumpis TV (Tumbes)
+#EXTINF:-1 tvg-id="TumpisTV.pe" tvg-logo="https://i.imgur.com/KZFWGwV.png?width=200&height=200" group-title="VARIADOS",Tumpis TV (Tumbes)
 https://servilive.com:3531/live/tumpistvlive.m3u8
 
-#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-logo="https://i.imgur.com/le0Amyd.png?width=200&height=200" group-title="IPTV",TVenLinea (Cuzco)
+#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-logo="https://i.imgur.com/le0Amyd.png?width=200&height=200" group-title="VARIADOS",TVenLinea (Cuzco)
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 
 #EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://i.imgur.com/fLk6TPY.png?width=200&height=200" group-title="NOTICIAS",Visión Noticias Perú (VNP)
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 
-#EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/c8UObjI.png?width=200&height=200" group-title="IPTV",X TV (Chachapoyas)
-https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
+#EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/c8UObjI.png?width=200&height=200" group-title="IPTV",X TV
+https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png?width=200&height=200" group-title="INFANTIL",AsiriTV (Lima)
 https://video2.lhdserver.es/asiritv/live.m3u8
