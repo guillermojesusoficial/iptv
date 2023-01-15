@@ -308,4 +308,23 @@ https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ZRocknPop/picture?width=200&height=200" group-title="RADIO" ,Radio Z Rock & Pop Perú
 http://167.114.118.120:7440/;.mp3
 
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.es/images/broadcasts/28/fd/21105/1/c44.png?width=200&height=200" group-title="RADIO" ,Radio Mar
+https://17793.live.streamtheworld.com/CRP_MAR.mp3
 
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.es/images/broadcasts/0a/03/21104/c44.png?width=200&height=200" group-title="RADIO" ,Radio Moda
+https://18243.live.streamtheworld.com/CRP_MOD.mp3
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.es/images/broadcasts/53/1a/21102/c44.png?width=200&height=200" group-title="RADIO" ,Ritmo Romantica
+https://18533.live.streamtheworld.com/CRP_RITAAC.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.es/images/broadcasts/c3/df/21106/c44.png?width=200&height=200" group-title="RADIO" ,Radio Nueva Q FM
+https://18813.live.streamtheworld.com/CRP_NQAAC.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.es/images/broadcasts/8e/08/21103/c44.png?width=200&height=200" group-title="RADIO" ,Radio La Innovidable
+https://18703.live.streamtheworld.com/CRP_LIAAC.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.es/images/broadcasts/6f/a4/21101/c44.png?width=200&height=200" group-title="RADIO" ,Radio Oasis
+https://14833.live.streamtheworld.com/CRP_OASAAC.aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.es/images/broadcasts/41/3c/21107/c44.png?width=200&height=200" group-title="RADIO" ,Radio Planeta
+https://26293.live.streamtheworld.com/CRP_PLAAAC.aac
