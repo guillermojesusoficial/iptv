@@ -41,7 +41,7 @@ https://live.obslivestream.com/tv5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2020/07/controversia.jpg?width=200&height=200" group-title="NOTICIAS" tvg-name="Controversia TV",Controversia TV
 https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="telecolortv.pe" tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png?width=200&height=200" group-title="INFANTILES" tvg-name="Telecolor TV",Telecolor TV
+#EXTINF:-1 tvg-id="telecolortv.pe" tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png?width=200&height=200" group-title="INFANTIL" tvg-name="Telecolor TV",Telecolor TV
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MasterTV.pe" tvg-logo="https://i.imgur.com/K2ZimRv.png?width=200&height=200" group-title="IPTV",Master TV (Tarapoto)
