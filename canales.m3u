@@ -1,5 +1,5 @@
 
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="NOTICIAS" ,Best Cable TV Perú
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=300&height=300" group-title="NOTICIAS" ,Best Cable TV Perú
 https://ca2.inka.net.pe/bestcable/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="DEPORTES" ,Best Cable Sports Perú
@@ -278,7 +278,7 @@ https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 #EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://tvhdtropical.com/wp-content/uploads/2022/09/LOGO-DE-TV-HD-TROPICAL.png?width=200&height=200" group-title="VARIADOS",Tropical TV (Puerto Maldonado)
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://i.imgur.com/vZwaV3J.png?width=200&height=200" group-title="MUSICALES",RADIO Tropical TV (PE)
+#EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://i.imgur.com/vZwaV3J.png?width=300&height=300" group-title="MUSICALES",RADIO Tropical TV (PE)
 https://multimedia.tmcreativos.com:1936/raditropical/ngrp:raditropical_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TumpisTV.pe" tvg-logo="https://tumpistv.pe/wp-content/uploads/2022/06/TUMPI-TV-LOGO-PNG-2.png?width=200&height=200" group-title="VARIADOS",Tumpis TV (PE)
