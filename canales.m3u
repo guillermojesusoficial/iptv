@@ -68,7 +68,7 @@ https://tv.oyotunstream.com:1936/master/master/chunklist_w1488883888.m3u8
 #EXTINF:-1 tvg-id="OKTEVE.pe" tvg-logo="https://oktelevisionhd.com/wp-content/uploads/2022/03/LOGO-OKTEVE.png?width=200&height=200" group-title="VARIADOS",OK TV
 https://stream.plixitv.live/oktv/oktv/chunklist_w2086221884.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png?width=200&height=200" group-title="VARIADOS" ,ATV
+#EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="VARIADOS" ,ATV
 https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo_sitePlus.png?width=200&height=200" group-title="VARIADOS" ,ATV+
@@ -83,7 +83,7 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_28.png?width=200&height=200" group-title="NOTICIAS" ,TV Perú Noticias
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/header/canalipe.svg?width=200&height=200" group-title="INFANTIL" ,Canal IPe Perú
+#EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/header/canalipe.svg" group-title="INFANTIL" ,Canal IPe Perú
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 
 #EXTINF:-1 tvg-logo="https://ovacion.pe/sites/default/files/logo-blanco.svg?width=200&height=200" group-title="DEPORTES" ,Ovacion
