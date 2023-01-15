@@ -14,10 +14,10 @@ https://ca2.inka.net.pe/mascumbiatvonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="MUSICALES" tvg-name="Hatun TV Perú",Hatun TV Perú
 https://ca2.inka.net.pe/bestcablehatuntv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png?width=200&height=200" group-title="VARIADOS" tvg-name="Atentica TV",Autentica TV
+#EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/contac.png?width=200&height=200" group-title="VARIADOS" tvg-name="Atentica TV",Autentica TV
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2022/03/conta1111.jpg?width=200&height=200" group-title="DEPORTES" tvg-name="Contacto TV",Contacto TV
+#EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/contac.png?width=200&height=200" group-title="DEPORTES" tvg-name="Contacto TV",Contacto TV
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://crtv.pe/wp-content/uploads/2020/11/logo.png?width=200&height=200" group-title="VARIADOS" tvg-name="CR TV",CR TV
