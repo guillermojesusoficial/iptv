@@ -53,7 +53,7 @@ https://live.obslivestream.com/controversiatv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="UranioTV.pe" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png?width=200&height=200" group-title="VARIADOS",Uranio TV
 https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="tv5.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/sanjuanLO.png?width=200&height=200" group-title="VARIADOS" tvg-name="TV5",TV5
+#EXTINF:-1 tvg-id="tv5.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/yv5.png?width=200&height=200" group-title="VARIADOS" tvg-name="TV5",TV5
 https://live.obslivestream.com/tv5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="sanjuaneraTV.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/sanjuanLO.png?width=200&height=200" group-title="VARIADOS",Sanjuanera TV
@@ -65,7 +65,7 @@ https://live.obslivestream.com/autenticatvmux/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="MasterTV.pe" tvg-logo="https://i.imgur.com/K2ZimRv.png?width=200&height=200" group-title="VARIADOS",Master TV
 https://tv.oyotunstream.com:1936/master/master/chunklist_w1488883888.m3u8
 
-#EXTINF:-1 tvg-id="OKTEVE.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2021/07/OKTVLOG.jpg?width=200&height=200" group-title="IPTV",OK TV
+#EXTINF:-1 tvg-id="OKTEVE.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2021/07/OKTVLOG.jpg?width=200&height=200" group-title="VARIADOS",OK TV
 https://stream.plixitv.live/oktv/oktv/chunklist_w2086221884.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png?width=200&height=200" group-title="VARIADOS" tvg-name="ATV",ATV
@@ -86,16 +86,10 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/header/canalipe.svg?width=200&height=200" group-title="INFANTIL" tvg-name="Canal IPe Perú",Canal IPe Perú
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-logo="https://ovacion.pe/sites/default/files/logo-blanco.svg?width=200&height=200" group-title="IPTV" tvg-name="Ovacion",Ovacion
+#EXTINF:-1 tvg-logo="https://ovacion.pe/sites/default/files/logo-blanco.svg?width=200&height=200" group-title="DEPORTES" tvg-name="Ovacion",Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://i.imgur.com/xFb3woQ.png?width=200&height=200" group-title="IPTV",FuegoTV (Lima)
-http://190.108.83.142:8000/play/a003/index.m3u8
-
-#EXTINF:-1 tvg-id="FullTV.pe" tvg-logo="https://i.imgur.com/JXUZKmx.png?width=200&height=200" group-title="IPTV",FullTV (Lima)
-https://stmv.panel.grupolimalive.com/fullmu/fullmu/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GalacticaTV.pe" tvg-logo="https://i.imgur.com/ffhT11J.png?width=200&height=200" group-title="IPTV",Galáctica TV (Peru)
+#EXTINF:-1 tvg-id="GalacticaTV.pe" tvg-logo="https://i.imgur.com/ffhT11J.png?width=200&height=200" group-title="VARIADOS",Galáctica TV
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=200&height=200" group-title="MUSICALES" tvg-name="La Karibeña Perú",La Karibeña Perú
@@ -119,55 +113,37 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png?width=200&height=200" group-title="NOTICIAS",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-id="EDNTV.hn" tvg-logo="https://i.imgur.com/Dq9we3E.png?width=200&height=200" group-title="IPTV",EDN TV
+#EXTINF:-1 tvg-id="EDNTV.hn" tvg-logo="https://i.imgur.com/Dq9we3E.png?width=200&height=200" group-title="VARIADOS",EDN TV (Honduras)
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ImperialTelevision.pe" tvg-logo="https://i.imgur.com/eYXqkyN.png?width=200&height=200" group-title="IPTV",Imperial Televisión (Huancayo)
+#EXTINF:-1 tvg-id="ImperialTelevision.pe" tvg-logo="https://i.imgur.com/eYXqkyN.png?width=200&height=200" group-title="VARIADOS",Radio Imperial TV
 https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8
 
-#EXTINF:-1 tvg-id="InnovaFMTV.pe" tvg-logo="https://i.imgur.com/Mxls38t.png?width=200&height=200" group-title="IPTV",Innova FM (Bagua Grande)
-https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.imgur.com/1Fd22rw.png?width=200&height=200" group-title="IPTV",JN19
+#EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.imgur.com/1Fd22rw.png?width=200&height=200" group-title="RELIGION",JN19
 https://servilive.com:3149/live/jn19tvlive.m3u8
 
-#EXTINF:-1 tvg-id="LaMegaMundial.us" tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="NOTICIAS",La Mega Mundial
+#EXTINF:-1 tvg-id="LaMegaMundial.us" tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="VARIADOS",La Mega Mundial
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/Qusd5mT.png?width=200&height=200" group-title="MUSICALES",La Ribereña (Pucallpa)
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
 
-#EXTINF:-1 tvg-id="LaUrbanTV.es" tvg-logo="https://i.imgur.com/01UcUcX.png?width=200&height=200" group-title="IPTV",La Urban TV
+#EXTINF:-1 tvg-id="LaUrbanTV.es" tvg-logo="https://i.imgur.com/01UcUcX.png?width=200&height=200" group-title="VARIADOS",La Urban TV
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LatinoKids.uy" tvg-logo="https://i.imgur.com/CBUf3K1.png?width=200&height=200" group-title="INFANTIL",LatinoKids
-https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LatinosRadio.cl" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQBewVSiagOUY4bjuHxtwDdHQZjc85-v575vIpwxA=s200-c-k-c0x00ffffff-no-rj?width=200&height=200" group-title="IPTV",Latinos Radio
-https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.imgur.com/3KsYg7B.png?width=200&height=200" group-title="IPTV",MaticesTV (Cañete)
-http://v4.tustreaming.cl/matices/index.m3u8
-
-#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png?width=200&height=200" group-title="IPTV",Mega TV (Jaen)
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png?width=200&height=200" group-title="VARIADOS",Mega TV Jaen
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="MilleniumTV.pe" tvg-logo="https://i.imgur.com/zYpMHhQ.png?width=200&height=200" group-title="IPTV",Millenium 49 TV (Pucallpa)
-https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://i.imgur.com/sfNL6Bv.png?width=200&height=200" group-title="IPTV",Millenium 109 FM (Lamas)
+#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://i.imgur.com/sfNL6Bv.png?width=200&height=200" group-title="VARIADOS",Millenium 106.9 FM
 https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 
-#EXTINF:-1 tvg-id="MitosTV.pe" tvg-logo="https://i.imgur.com/w4ISMBI.png?width=200&height=200" group-title="IPTV",MitosTV (Mitos de la Selva Pucallpa)
-https://inliveserver.com:1936/19018/19018/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-logo="https://i.imgur.com/ed0dUEd.png?width=200&height=200" group-title="IPTV",Monterrico TV
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-logo="https://i.imgur.com/ed0dUEd.png?width=200&height=200" group-title="DEPORTES",Monterrico TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MulticanalCatamayo.ec" tvg-logo="https://i.imgur.com/qUZW3xI.png?width=200&height=200" group-title="IPTV",Multicanal Catamayo
+#EXTINF:-1 tvg-id="MulticanalCatamayo.ec" tvg-logo="https://i.imgur.com/qUZW3xI.png?width=200&height=200" group-title="VARIADOS",Multicanal Catamayo
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
-#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png?width=200&height=200" group-title="MUSICALES",MusicTop
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png?width=200&height=200" group-title="MUSICALES",MusicTop (Argentina)
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTimemovienetworkMexico.mx" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png?width=200&height=200" group-title="CINE",MyTime movie network Mexico
@@ -176,36 +152,26 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimemovienetworkSpain.es" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png?width=200&height=200" group-title="CINE",MyTime movie network Spain
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NacionalTV.pe" tvg-logo="https://i.imgur.com/YbyjNgU.png?width=200&height=200" group-title="IPTV",NacionalTV
+#EXTINF:-1 tvg-id="NacionalTV.pe" tvg-logo="https://i.imgur.com/YbyjNgU.png?width=200&height=200" group-title="VARIADOS",Nacional TV (PE)
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png?width=200&height=200" group-title="NOTICIAS",Nativa
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png?width=200&height=200" group-title="NOTICIAS",Nativa TV (PE)
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
-#EXTINF:-1 tvg-id="NavarraTV.es" tvg-logo="https://i.imgur.com/rcbRX2T.png?width=200&height=200" group-title="IPTV",Navarra TV
-https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/CtPwUdL.png?width=200&height=200" group-title="IPTV",Nazarenas TV
+#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/CtPwUdL.png?width=200&height=200" group-title="RELIGION",Nazarenas TV (PE)
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NuestraTVLima.pe" tvg-logo="https://i.imgur.com/gZAOl0w.png?width=200&height=200" group-title="IPTV",Nuestra TV (Lima)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
-
-#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png?width=200&height=200" group-title="IPTV",Nuevo Tiempo
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png?width=200&height=200" group-title="RELIGION",Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="OasisRTV.pe" tvg-logo="https://i.imgur.com/gDMHbfs.png?width=200&height=200" group-title="IPTV",Oasis RTV (Trujillo)
-https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
-
-#EXTINF:-1 tvg-id="OxigenoTV.ve" tvg-logo="https://i.imgur.com/IkHrVCL.jpg?width=200&height=200" group-title="IPTV",Oxigeno TV
+#EXTINF:-1 tvg-id="OxigenoTV.ve" tvg-logo="https://i.imgur.com/IkHrVCL.jpg?width=200&height=200" group-title="MUSICALES",Oxigeno TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PAT.bo" tvg-logo="https://comteco.com.bo/img/upload/canales/fH1k23.png?width=200&height=200" group-title="IPTV",PAT
+#EXTINF:-1 tvg-id="PAT.bo" tvg-logo="https://comteco.com.bo/img/upload/canales/fH1k23.png?width=200&height=200" group-title="VARIADOS",PAT (BO)
 https://master.tucableip.com/pat/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Pequeradio.es" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png?width=200&height=200" group-title="IPTV",Pequeradio
+#EXTINF:-1 tvg-id="Pequeradio.es" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png?width=200&height=200" group-title="INFANTIL",Pequeradio
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
 
 #EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="MUSICALES",Planetatv Music
 https://scl.edge.grupoz.cl/music/live/chunklist_w380869176.m3u8
@@ -216,28 +182,19 @@ https://scl.edge.grupoz.cl/movie/live/chunklist_w1180151846.m3u8
 #EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="INFANTIL",Planetatv Kids
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1811679314.m3u8
 
-#EXTINF:-1 tvg-id="PiuraTV.pe" tvg-logo="https://i.imgur.com/oew9unJ.png?width=200&height=200" group-title="IPTV",PiuraTV
-http://190.108.83.142:8000/play/a00d/index.m3u8
-
-#EXTINF:-1 tvg-id="Portalfoxmix.cl" tvg-logo="https://i.imgur.com/ZEBOeGe.png?width=200&height=200" group-title="IPTV",Portalfoxmix
+#EXTINF:-1 tvg-id="Portalfoxmix.cl" tvg-logo="https://i.imgur.com/ZEBOeGe.png?width=200&height=200" group-title="VARIADOS",Portalfoxmix (CL)
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ProyectaTelevision.pe" tvg-logo="https://i.imgur.com/pXspBga.png?width=200&height=200" group-title="IPTV",Proyecta Televisión (Huacho)
-https://servilive.com:3194/live/proyectatvlive.m3u8
-
-#EXTINF:-1 tvg-id="QTTelevision.pe" tvg-logo="https://i.imgur.com/xVcnmE3.png?width=200&height=200" group-title="IPTV",QT Televisión (Cuzco)
+#EXTINF:-1 tvg-id="QTTelevision.pe" tvg-logo="https://i.imgur.com/xVcnmE3.png?width=200&height=200" group-title="VARIADOS",QT TV (Cuzco)
 https://servilive.com:3753/live/qosqotimeslive.m3u8
-
-#EXTINF:-1 tvg-id="Quillavision.pe" tvg-logo="https://i.imgur.com/ngNSzHe.png?width=200&height=200" group-title="IPTV",Quillavision (Cuzco)
-http://v4.tustreaming.cl/quillavision/index.m3u8
 
 #EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-logo="https://i.imgur.com/KZHsrU4.png?width=200&height=200" group-title="MUSICALES",Radio Chalaca
 https://megastreamm.com:3611/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/xvMDTe9.png?width=200&height=200" group-title="IPTV",Radio San Borja TV
+#EXTINF:-1 tvg-id="radiosanborjatv.com" tvg-logo="https://radiosanborjatv.com/wp-content/uploads/2020/12/LOGO-RSB-TV.png?width=200&height=200" group-title="VARIADOS",Radio San Borja TV (PE)
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioTVOriente.pe" tvg-logo="https://i.imgur.com/iHaFLHX.png?width=200&height=200" group-title="IPTV",RadioTV Oriente (Yurimaguas)
+#EXTINF:-1 tvg-id="RadioTVOriente.pe" tvg-logo="https://i.imgur.com/iHaFLHX.png?width=200&height=200" group-title="VARIADOS",Radio TV Oriente (Yurimaguas)
 https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png?width=200&height=200" group-title="IPTV",RadioInka (Abancay)
@@ -252,46 +209,43 @@ https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenTVSpotlightSpain.es" tvg-logo="https://i.imgur.com/dWNxCqp.png?width=200&height=200" group-title="CINE",Rakuten Spotlight Spain
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RCGTV.mx" tvg-logo="https://i.imgur.com/1qrh5SC.png?width=200&height=200" group-title="NOTICIAS",RCG TV
+#EXTINF:-1 tvg-id="RCGTV.mx" tvg-logo="https://api.rcgmedia.mx/uploads/thumbnail_logo_rcg_media_250_1_69610a5309.png?width=200&height=200" group-title="VARIADOS",RCG TV (MX)
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RCKTV.cl" tvg-logo="https://i.imgur.com/0k6ZVMo.png?width=200&height=200" group-title="NOTICIAS",RCK TV
+#EXTINF:-1 tvg-id="RCKTV.cl" tvg-logo="https://rcktv.cl/wp-content/uploads/2021/02/cropped-cropped-cropped-LOGO-RCKTV-1.jpg?width=200&height=200" group-title="MUSICALES",RCK TV (CL)
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://i.imgur.com/DvRbrFy.png?width=200&height=200" group-title="NOTICIAS",Red de Comunicación Regional (RCR)
+#EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://i.imgur.com/DvRbrFy.png?width=200&height=200" group-title="NOTICIAS",Red de Comunicación Regional (PE)
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-logo="https://i.imgur.com/I4grcqk.png?width=200&height=200" group-title="VARIADOS",Región TV (Callao)
+#EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-logo="https://i.imgur.com/I4grcqk.png?width=200&height=200" group-title="VARIADOS",Región TV (PE)
 https://servilive.com:3757/live/regiontvlive.m3u8
 
-#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png?width=200&height=200" group-title="MUSICALES",Retro Plus
+#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png?width=200&height=200" group-title="MUSICALES",Retro Plus (CL)
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png?width=200&height=200" group-title="MUSICALES",Retro Plus 2
+#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png?width=200&height=200" group-title="MUSICALES",Retro Plus 2 (CL)
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png?width=200&height=200" group-title="VARIADOS",Retro Plus 3
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png?width=200&height=200" group-title="VARIADOS",Retro Plus 3 (CL)
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RetroMagico.ar" tvg-logo="https://i.imgur.com/Dd8KMvI.png?width=200&height=200" group-title="INFANTIL",RetroMágico
+#EXTINF:-1 tvg-id="RetroMagico.ar" tvg-logo="https://i.imgur.com/Dd8KMvI.png?width=200&height=200" group-title="INFANTIL",RetroMágico (ARG)
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
-#EXTINF:-1 tvg-id="RSelvaTV.pe" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png?width=200&height=200" group-title="VARIADOS",RSelvaTV (Tarapoto)
+#EXTINF:-1 tvg-id="RSelvaTV.pe" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png?width=200&height=200" group-title="VARIADOS",RSelvaTV (PE)
 https://live.obslivestream.com/selvatv/index.m3u8
 
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png?width=200&height=200" group-title="NOTICIAS",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe" tvg-logo="https://i.imgur.com/f8XvDQs.png?width=200&height=200" group-title="MUSICALES",RTV Total (Yurimaguas)
-https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
-
-#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png?width=200&height=200" group-title="VARIADOS",San Isidro TV
+#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png?width=200&height=200" group-title="VARIADOS",San Isidro TV (REP DOM)
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SolStereoTV.pe" tvg-logo="https://i.imgur.com/L45zrbj.png?width=200&height=200" group-title="VARIADOS",Sol Stereo TV (Casma)
+#EXTINF:-1 tvg-id="SolStereo.pe" tvg-logo="https://solstereo.pe/wp-content/uploads/2022/09/logo-sol-2022.png?width=200&height=200" group-title="VARIADOS",Sol Stereo TV (PE)
 https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SumacTV.pe" tvg-logo="https://i.imgur.com/H5Zhdbo.png?width=200&height=200" group-title="MUSICAL",Sumac TV (Lima)
+#EXTINF:-1 tvg-id="Sumac.com" tvg-logo="https://sumactv.com/wp-content/uploads/2022/02/log-1.jpg?width=200&height=200" group-title="VARIADOS",Sumac TV (PE)
 https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
 
 #EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur (Ilo)
@@ -318,25 +272,25 @@ https://1667517699.rsc.cdn77.org/hls/radioilo.m3u8
 #EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png?width=200&height=200" group-title="CINE",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-id="TPTOChannel.pe" tvg-logo="https://i.imgur.com/pjcWDJW.png?width=200&height=200" group-title="MUSICALES",TPTO TV (Tarapoto)
+#EXTINF:-1 tvg-id="TPTOChannel.pe" tvg-logo="https://i.imgur.com/pjcWDJW.png?width=200&height=200" group-title="MUSICALES",TPTO TV (PE)
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://i.imgur.com/vZwaV3J.png?width=200&height=200" group-title="VARIADOS",Tropical TV (Puerto Maldonado)
+#EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://tvhdtropical.com/wp-content/uploads/2022/09/LOGO-DE-TV-HD-TROPICAL.png?width=200&height=200" group-title="VARIADOS",Tropical TV (Puerto Maldonado)
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TumpisTV.pe" tvg-logo="https://i.imgur.com/KZFWGwV.png?width=200&height=200" group-title="VARIADOS",Tumpis TV (Tumbes)
+#EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://i.imgur.com/vZwaV3J.png?width=200&height=200" group-title="MUSICALES",RADIO Tropical TV (PE)
+https://multimedia.tmcreativos.com:1936/raditropical/ngrp:raditropical_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TumpisTV.pe" tvg-logo="https://tumpistv.pe/wp-content/uploads/2022/06/TUMPI-TV-LOGO-PNG-2.png?width=200&height=200" group-title="VARIADOS",Tumpis TV (PE)
 https://servilive.com:3531/live/tumpistvlive.m3u8
 
-#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-logo="https://i.imgur.com/le0Amyd.png?width=200&height=200" group-title="VARIADOS",TVenLinea (Cuzco)
+#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-logo="https://www.tvenlineaoficial.com/wp-content/uploads/2021/10/logo-tv-en-linea-cusco.jpg?width=200&height=200" group-title="VARIADOS",TVenLinea CUSCO (PE)
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 
-#EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://i.imgur.com/fLk6TPY.png?width=200&height=200" group-title="NOTICIAS",Visión Noticias Perú (VNP)
+#EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://www.vnp.pe/wp-content/uploads/2020/11/logo-vnp-color.png?width=200&height=200" group-title="VARIADOS",Visión Noticias Perú (PE)
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
 
-#EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/c8UObjI.png?width=200&height=200" group-title="IPTV",X TV
-https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
-
-#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png?width=200&height=200" group-title="INFANTIL",AsiriTV (Lima)
+#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png?width=200&height=200" group-title="VARIADOS",AsiriTV (Lima)
 https://video2.lhdserver.es/asiritv/live.m3u8
 
 
