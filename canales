@@ -1,0 +1,355 @@
+
+#EXTINF:-1 tvg-logo="https://willax.tv/wp-content/uploads/2022/02/cropped-logo-footer-willax.png?width=200&height=200" group-title="IPTV" tvg-name="Willax TV",Willax TV
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmrvLhg05BqqaY7Sm91AYR2SrkpWYzSSVckGAcpe9y1lC)/dm/3/x7x4dgx/s/live-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="IPTV" tvg-name="Best Cable TV Perú",Best Cable TV Perú
+https://ca2.inka.net.pe/bestcable/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="IPTV" tvg-name="Best Cable Sports Perú",Best Cable Sports Perú
+https://ca2.inka.net.pe/bestcablesports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="IPTV" tvg-name="Best Cable Music Perú",Best Cable Music Perú
+https://ca2.inka.net.pe/bestcablemusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="IPTV" tvg-name="+Cumbia TV Perú",+Cumbia TV Perú
+https://ca2.inka.net.pe/mascumbiatvonline/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="IPTV" tvg-name="Hatun TV Perú",Hatun TV Perú
+https://ca2.inka.net.pe/bestcablehatuntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png?width=200&height=200" group-title="IPTV" tvg-name="Atentica TV",Autentica TV
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://playmax.tv/wp-content/uploads/2022/03/conta1111.jpg?width=200&height=200" group-title="IPTV" tvg-name="Contacto TV",Contacto TV
+https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://crtv.pe/wp-content/uploads/2020/11/logo.png?width=200&height=200" group-title="IPTV" tvg-name="CR TV",CR TV
+https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://geniostv.pe/wp-content/uploads/2021/07/logo2.jpg?width=200&height=200" group-title="IPTV" tvg-name="GeniosTV",Genios TV
+https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/02/vz-nuevo.png?width=200&height=200" group-title="IPTV" tvg-name="VZ TV",VZ TV
+https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://goresamtv.com/wp-content/uploads/2022/03/001-4.jpg?width=200&height=200" group-title="IPTV" tvg-name="Goresam TV",Goresam TV
+https://stream.plixitv.live/goresamtv/goresamtv/chunklist_w851050399.m3u8
+
+#EXTINF:-1 tvg-id="tv5.pe" tvg-logo="https://moyobamba.com/wp-content/uploads/2020/06/t5v-full.png?width=200&height=200" group-title="IPTV" tvg-name="TV5",TV5
+https://live.obslivestream.com/tv5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2020/07/controversia.jpg?width=200&height=200" group-title="IPTV" tvg-name="Controversia TV",Controversia TV
+https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="telecolortv.pe" tvg-logo="https://telecolortv.pe/wp-content/uploads/2021/09/logo_inicio.png?width=200&height=200" group-title="IPTV" tvg-name="Telecolor TV",Telecolor TV
+https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MasterTV.pe" tvg-logo="https://i.imgur.com/K2ZimRv.png?width=200&height=200" group-title="IPTV",Master TV (Tarapoto)
+https://tv.oyotunstream.com:1936/master/master/chunklist_w1488883888.m3u8
+
+#EXTINF:-1 tvg-id="UranioTV.pe" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png?width=200&height=200" group-title="IPTV",Uranio TV (Yurimaguas)
+https://live.obslivestream.com/uraniotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="OKTEVE.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2021/07/OKTVLOG.jpg?width=200&height=200" group-title="IPTV",OK TV
+https://stream.plixitv.live/oktv/oktv/chunklist_w2086221884.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png?width=200&height=200" group-title="IPTV" tvg-name="ATV",ATV
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo_sitePlus.png?width=200&height=200" group-title="IPTV" tvg-name="ATV+",ATV+
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png?width=200&height=200" group-title="IPTV" tvg-name="Exitosa Noticias Perú",Exitosa Noticias Perú
+https://cu.onliv3.com/livevd1/user2.m3u8
+
+#EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20220731?width=200&height=200" group-title="IPTV" tvg-name="Panamericana Perú",Panamericana Perú
+https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFuBSVSjTgZGyKiNwLmGZ9zMsZIcvDOOM67ewSkGO6hlC)/dm/3/x774s7s/s/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_28.png?width=200&height=200" group-title="IPTV" tvg-name="TV Perú",TV Perú
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_28.png?width=200&height=200" group-title="IPTV" tvg-name="TV Perú Noticias",TV Perú Noticias
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal/static/media/header/canalipe.svg?width=200&height=200" group-title="IPTV" tvg-name="Canal IPe Perú",Canal IPe Perú
+https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="https://ovacion.pe/sites/default/files/logo-blanco.svg?width=200&height=200" group-title="IPTV" tvg-name="Ovacion",Ovacion
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://i.imgur.com/xFb3woQ.png?width=200&height=200" group-title="IPTV",FuegoTV (Lima)
+http://190.108.83.142:8000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="FullTV.pe" tvg-logo="https://i.imgur.com/JXUZKmx.png?width=200&height=200" group-title="IPTV",FullTV (Lima)
+https://stmv.panel.grupolimalive.com/fullmu/fullmu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GalacticaTV.pe" tvg-logo="https://i.imgur.com/ffhT11J.png?width=200&height=200" group-title="IPTV",Galáctica TV (Peru)
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/LaKaribena/picture?width=200&height=200" group-title="IPTV" tvg-name="La Karibeña Perú",La Karibeña Perú
+https://cu.onliv3.com/livevd/user1.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OndaDigitalPeru/picture?width=200&height=200" group-title="IPTV" tvg-name="Onda Digital Perú",Onda Digital Perú
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="IPTV" tvg-name="Cartoon Network Latino",Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png?width=200&height=200" group-title="IPTV" tvg-name="Top Latino TV Perú",Top Latino TV Perú
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/chunklist_w1401660644.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/BHtvNuestroCanal/picture?width=200&height=200" group-title="IPTV" tvg-name="BH TV",BH TV
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png?width=200&height=200" group-title="IPTV" tvg-name="WOW TV",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png?width=200&height=200" group-title="IPTV",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="EDNTV.hn" tvg-logo="https://i.imgur.com/Dq9we3E.png?width=200&height=200" group-title="IPTV",EDN TV
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ImperialTelevision.pe" tvg-logo="https://i.imgur.com/eYXqkyN.png?width=200&height=200" group-title="IPTV",Imperial Televisión (Huancayo)
+https://stmv.panel.grupolimalive.com/imperu/imperu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InnovaFMTV.pe" tvg-logo="https://i.imgur.com/Mxls38t.png?width=200&height=200" group-title="IPTV",Innova FM (Bagua Grande)
+https://live.tvcontrolcp.com:1936/8170/8170/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JN19.pe" tvg-logo="https://i.imgur.com/1Fd22rw.png?width=200&height=200" group-title="IPTV",JN19
+https://servilive.com:3149/live/jn19tvlive.m3u8
+
+#EXTINF:-1 tvg-id="LaMegaMundial.us" tvg-logo="https://pbs.twimg.com/profile_images/742490028559982592/ddFmTivZ_400x400.jpg" group-title="IPTV",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/Qusd5mT.png?width=200&height=200" group-title="IPTV",La Ribereña (Pucallpa)
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
+
+#EXTINF:-1 tvg-id="LaUrbanTV.es" tvg-logo="https://i.imgur.com/01UcUcX.png?width=200&height=200" group-title="IPTV",La Urban TV
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LatinoKids.uy" tvg-logo="https://i.imgur.com/CBUf3K1.png?width=200&height=200" group-title="IPTV",LatinoKids
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LatinosRadio.cl" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQBewVSiagOUY4bjuHxtwDdHQZjc85-v575vIpwxA=s200-c-k-c0x00ffffff-no-rj?width=200&height=200" group-title="IPTV",Latinos Radio
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://i.imgur.com/3KsYg7B.png?width=200&height=200" group-title="IPTV",MaticesTV (Cañete)
+http://v4.tustreaming.cl/matices/index.m3u8
+
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png?width=200&height=200" group-title="IPTV",Mega TV (Jaen)
+https://tv.portalexpress.es:3399/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="MilleniumTV.pe" tvg-logo="https://i.imgur.com/zYpMHhQ.png?width=200&height=200" group-title="IPTV",Millenium 49 TV (Pucallpa)
+https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Millenium109FM.pe" tvg-logo="https://i.imgur.com/sfNL6Bv.png?width=200&height=200" group-title="IPTV",Millenium 109 FM (Lamas)
+https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
+
+#EXTINF:-1 tvg-id="MitosTV.pe" tvg-logo="https://i.imgur.com/w4ISMBI.png?width=200&height=200" group-title="IPTV",MitosTV (Mitos de la Selva Pucallpa)
+https://inliveserver.com:1936/19018/19018/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-logo="https://i.imgur.com/ed0dUEd.png?width=200&height=200" group-title="IPTV",Monterrico TV
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MulticanalCatamayo.ec" tvg-logo="https://i.imgur.com/qUZW3xI.png?width=200&height=200" group-title="IPTV",Multicanal Catamayo
+https://multicanal.streamseguro.com/hls/streaming.m3u8
+
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png?width=200&height=200" group-title="IPTV",MusicTop
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimemovienetworkMexico.mx" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png?width=200&height=200" group-title="IPTV",MyTime movie network Mexico
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyTimemovienetworkSpain.es" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png?width=200&height=200" group-title="IPTV",MyTime movie network Spain
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NacionalTV.pe" tvg-logo="https://i.imgur.com/YbyjNgU.png?width=200&height=200" group-title="IPTV",NacionalTV
+https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png?width=200&height=200" group-title="IPTV",Nativa
+https://servilive.com:3449/live/mlecaroslive.m3u8
+
+#EXTINF:-1 tvg-id="NavarraTV.es" tvg-logo="https://i.imgur.com/rcbRX2T.png?width=200&height=200" group-title="IPTV",Navarra TV
+https://pc-sumandocomunicacion-hls.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/CtPwUdL.png?width=200&height=200" group-title="IPTV",Nazarenas TV
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NuestraTVLima.pe" tvg-logo="https://i.imgur.com/gZAOl0w.png?width=200&height=200" group-title="IPTV",Nuestra TV (Lima)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
+
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png?width=200&height=200" group-title="IPTV",Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OasisRTV.pe" tvg-logo="https://i.imgur.com/gDMHbfs.png?width=200&height=200" group-title="IPTV",Oasis RTV (Trujillo)
+https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
+
+#EXTINF:-1 tvg-id="OxigenoTV.ve" tvg-logo="https://i.imgur.com/IkHrVCL.jpg?width=200&height=200" group-title="IPTV",Oxigeno TV
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PAT.bo" tvg-logo="https://comteco.com.bo/img/upload/canales/fH1k23.png?width=200&height=200" group-title="IPTV",PAT
+https://master.tucableip.com/pat/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pequeradio.es" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png?width=200&height=200" group-title="IPTV",Pequeradio
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://i.imgur.com/01KEiEp.png?width=200&height=200" group-title="IPTV",Perú Channel
+https://stmv1.duvoxtv.com.br/novelaplz/novelaplz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="IPTV",Planetatv Music
+https://scl.edge.grupoz.cl/music/live/chunklist_w380869176.m3u8
+
+#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="IPTV",Planetatv Movie
+https://scl.edge.grupoz.cl/movie/live/chunklist_w1180151846.m3u8
+
+#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="IPTV",Planetatv Kids
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1811679314.m3u8
+
+#EXTINF:-1 tvg-id="PiuraTV.pe" tvg-logo="https://i.imgur.com/oew9unJ.png?width=200&height=200" group-title="IPTV",PiuraTV
+http://190.108.83.142:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-id="Portalfoxmix.cl" tvg-logo="https://i.imgur.com/ZEBOeGe.png?width=200&height=200" group-title="IPTV",Portalfoxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ProyectaTelevision.pe" tvg-logo="https://i.imgur.com/pXspBga.png?width=200&height=200" group-title="IPTV",Proyecta Televisión (Huacho)
+https://servilive.com:3194/live/proyectatvlive.m3u8
+
+#EXTINF:-1 tvg-id="QTTelevision.pe" tvg-logo="https://i.imgur.com/xVcnmE3.png?width=200&height=200" group-title="IPTV",QT Televisión (Cuzco)
+https://servilive.com:3753/live/qosqotimeslive.m3u8
+
+#EXTINF:-1 tvg-id="Quillavision.pe" tvg-logo="https://i.imgur.com/ngNSzHe.png?width=200&height=200" group-title="IPTV",Quillavision (Cuzco)
+http://v4.tustreaming.cl/quillavision/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-logo="https://i.imgur.com/KZHsrU4.png?width=200&height=200" group-title="IPTV",Radio Chalaca
+https://megastreamm.com:3611/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-logo="https://i.imgur.com/xvMDTe9.png?width=200&height=200" group-title="IPTV",Radio San Borja TV
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioTVOriente.pe" tvg-logo="https://i.imgur.com/iHaFLHX.png?width=200&height=200" group-title="IPTV",RadioTV Oriente (Yurimaguas)
+https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png?width=200&height=200" group-title="IPTV",RadioInka (Abancay)
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg?width=200&height=200" group-title="IPTV",Rakuten Action Movies Spain
+https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es" tvg-logo="https://i.imgur.com/eQKFgpa.png?width=200&height=200" group-title="IPTV",Rakuten Comedy Movies Spain
+https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RakutenTVSpotlightSpain.es" tvg-logo="https://i.imgur.com/dWNxCqp.png?width=200&height=200" group-title="IPTV",Rakuten Spotlight Spain
+https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCGTV.mx" tvg-logo="https://i.imgur.com/1qrh5SC.png?width=200&height=200" group-title="IPTV",RCG TV
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCKTV.cl" tvg-logo="https://i.imgur.com/0k6ZVMo.png?width=200&height=200" group-title="IPTV",RCK TV
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://i.imgur.com/DvRbrFy.png?width=200&height=200" group-title="IPTV",Red de Comunicación Regional (RCR)
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedBullBatalladelosGallos.cl" tvg-logo="https://i.imgur.com/mqTGa3V.png?width=200&height=200" group-title="IPTV",RedBull Batalla de Gallos
+https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-logo="https://i.imgur.com/I4grcqk.png?width=200&height=200" group-title="IPTV",Región TV (Callao)
+https://servilive.com:3757/live/regiontvlive.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png?width=200&height=200" group-title="IPTV",Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png?width=200&height=200" group-title="IPTV",Retro Plus 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png?width=200&height=200" group-title="IPTV",Retro Plus 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RetroMagico.ar" tvg-logo="https://i.imgur.com/Dd8KMvI.png?width=200&height=200" group-title="IPTV",RetroMágico
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+
+#EXTINF:-1 tvg-id="RSelvaTV.pe" tvg-logo="https://radioselvatv.pe/wp-content/uploads/2020/12/LOGO-web.png?width=200&height=200" group-title="IPTV",RSelvaTV (Tarapoto)
+https://live.obslivestream.com/selvatv/index.m3u8
+
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png?width=200&height=200" group-title="IPTV",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVTotalYurimaguas.pe" tvg-logo="https://i.imgur.com/f8XvDQs.png?width=200&height=200" group-title="IPTV",RTV Total (Yurimaguas)
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+
+#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png?width=200&height=200" group-title="IPTV",San Isidro TV
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SolStereoTV.pe" tvg-logo="https://i.imgur.com/L45zrbj.png?width=200&height=200" group-title="IPTV",Sol Stereo TV (Casma)
+https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SumacTV.pe" tvg-logo="https://i.imgur.com/H5Zhdbo.png?width=200&height=200" group-title="IPTV",Sumac TV (Lima)
+https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
+
+#EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="IPTV",Telesur (Ilo)
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+
+#EXTINF:-1 tvg-id="TelesurMoquegua.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="IPTV",Telesur (Moquegua)
+https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+
+#EXTINF:-1 tvg-id="TelesurMollendo.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="IPTV",Telesur (Mollendo)
+https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
+
+#EXTINF:-1 tvg-id="TelesurCamana.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="IPTV",Telesur (Camana)
+https://1667517699.rsc.cdn77.org/hls/camana.m3u8
+
+#EXTINF:-1 tvg-id="TelesurTacna.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="IPTV",Telesur (Tacna)
+https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
+
+#EXTINF:-1 tvg-id="TelesurArequipa.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="IPTV",Telesur (Arequipa)
+https://1667517699.rsc.cdn77.org/hls/arequipa.m3u8
+
+#EXTINF:-1 tvg-id="TelesurArequipa.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="IPTV",Expresion (TV Ilo)
+https://1667517699.rsc.cdn77.org/hls/radioilo.m3u8
+
+#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png?width=200&height=200" group-title="IPTV",Top Cine
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
+#EXTINF:-1 tvg-id="TPTOChannel.pe" tvg-logo="https://i.imgur.com/pjcWDJW.png?width=200&height=200" group-title="IPTV",TPTO TV (Tarapoto)
+https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://i.imgur.com/vZwaV3J.png?width=200&height=200" group-title="IPTV",Tropical TV (Puerto Maldonado)
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TumpisTV.pe" tvg-logo="https://i.imgur.com/KZFWGwV.png?width=200&height=200" group-title="IPTV",Tumpis TV (Tumbes)
+https://servilive.com:3531/live/tumpistvlive.m3u8
+
+#EXTINF:-1 tvg-id="TVenLinea.pe" tvg-logo="https://i.imgur.com/le0Amyd.png?width=200&height=200" group-title="IPTV",TVenLinea (Cuzco)
+https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+
+#EXTINF:-1 tvg-id="VNP.pe" tvg-logo="https://i.imgur.com/fLk6TPY.png?width=200&height=200" group-title="IPTV",Visión Noticias Perú (VNP)
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="https://i.imgur.com/c8UObjI.png?width=200&height=200" group-title="IPTV",X TV (Chachapoyas)
+https://tv.oyotunstream.com:1936/xtv/xtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png?width=200&height=200" group-title="IPTV",AsiriTV (Lima)
+https://video2.lhdserver.es/asiritv/live.m3u8
+
+#EXTINF:-1  group-title="IPTV" tvg-id="Claro Sports",Claro Sports
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/490px-El_Chavo_%28simple_logo%29.svg.png?width=200&height=200" group-title="IPTV" tvg-id="Chavo TV",CHAVO TV
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+
+
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rppnoticias/picture?width=200&height=200" group-title="RADIO" tvg-name="RPP Noticias Perú",RPP Noticias Perú
+https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Radiolazona/picture?width=200&height=200" group-title="RADIO" tvg-name="Radio La Zona Perú",Radio La Zona Perú
+https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200" group-title="RADIO" tvg-name="Radio Oxígeno Perú",Radio Oxígeno Perú
+https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
+
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ZRocknPop/picture?width=200&height=200" group-title="RADIO" tvg-name="Radio Z Rock & Pop Perú",Radio Z Rock & Pop Perú
+http://167.114.118.120:7440/;.mp3
+
+
