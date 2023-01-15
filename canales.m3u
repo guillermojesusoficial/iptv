@@ -1,8 +1,8 @@
 
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="NOTICIAS" tvg-name="Best Cable TV Perú",Best Cable TV Perú
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="NOTICIAS" tvg-name="Best Cable TV Perú"
 https://ca2.inka.net.pe/bestcable/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="DEPORTES" tvg-name="Best Cable Sports Perú",Best Cable Sports Perú
+#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="DEPORTES" tvg-name="Best Cable Sports Perú"
 https://ca2.inka.net.pe/bestcablesports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/logo/logo.png?width=200&height=200" group-title="MUSICALES" tvg-name="Best Cable Music Perú",Best Cable Music Perú
@@ -39,7 +39,7 @@ https://live.obslivestream.com/telecolormux/tracks-v3a1/mono.m3u8
 https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="mas1tv.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/mas1.png?width=200&height=200" group-title="VARIADOS" tvg-name="Mas 1 TV",Mas 1 TV
-https://live.obslivestream.com/telecolormux/tracks-v1a1/mono.m3u8
+https://live.obslivestream.com/norselvatv/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="wtv.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/OKLO.png?width=200&height=200" group-title="VARIADOS" tvg-name="W TV",W TV
 https://live.obslivestream.com/sanjuanera/tracks-v3a1/mono.m3u8
