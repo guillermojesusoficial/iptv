@@ -104,13 +104,13 @@ https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL" ,Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png?width=200&height=200" group-title="NOTICIAS" ,Top Latino TV Perú
+#EXTINF:-1 tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png?width=200&height=200" group-title="VARIADOS" ,Top Latino TV Perú
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w2074627226.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/BHtvNuestroCanal/picture?width=200&height=200" group-title="VARIADOS" ,BH TV
+#EXTINF:-1 tvg-logo="https://scontent.flim31-1.fna.fbcdn.net/v/t39.30808?width=200&height=200" group-title="VARIADOS" ,BH TV
 https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png?width=200&height=200" group-title="CINE" ,WOW TV
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png?width=200&height=200" group-title="VARIADOS" ,WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png?width=200&height=200" group-title="NOTICIAS",DW Español
@@ -149,10 +149,10 @@ https://multicanal.streamseguro.com/hls/streaming.m3u8
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png?width=200&height=200" group-title="MUSICALES",MusicTop (ARG)
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MyTimemovienetworkMexico.mx" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png?width=200&height=200" group-title="CINE",MyTime movie network Mexico
+#EXTINF:-1 tvg-id="MyTimemovienetworkMexico.mx" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png?width=200&height=200" group-title="VARIADOS",MyTime movie network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MyTimemovienetworkSpain.es" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png?width=200&height=200" group-title="CINE",MyTime movie network Spain
+#EXTINF:-1 tvg-id="MyTimemovienetworkSpain.es" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png?width=200&height=200" group-title="VARIADOS",MyTime movie network Spain
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NacionalTV.pe" tvg-logo="https://i.imgur.com/YbyjNgU.png?width=200&height=200" group-title="VARIADOS",Nacional TV (PE)
@@ -170,16 +170,13 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OxigenoTV.ve" tvg-logo="https://i.imgur.com/IkHrVCL.jpg?width=200&height=200" group-title="MUSICALES",Oxigeno TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PAT.bo" tvg-logo="https://comteco.com.bo/img/upload/canales/fH1k23.png?width=200&height=200" group-title="VARIADOS",PAT (BO)
-https://master.tucableip.com/pat/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Pequeradio.es" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png?width=200&height=200" group-title="INFANTIL",Pequeradio
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="MUSICALES",Planetatv Music
 https://scl.edge.grupoz.cl/music/live/chunklist_w380869176.m3u8
 
-#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="CINE",Planetatv Movie
+#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="VARIADOS",Planetatv Movie
 https://scl.edge.grupoz.cl/movie/live/chunklist_w1180151846.m3u8
 
 #EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="INFANTIL",Planetatv Kids
@@ -200,16 +197,16 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m
 #EXTINF:-1 tvg-id="RadioTVOriente.pe" tvg-logo="https://i.imgur.com/iHaFLHX.png?width=200&height=200" group-title="VARIADOS",Radio TV Oriente (PE)
 https://stmv.panel.grupolimalive.com/orientetv/orientetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png?width=200&height=200" group-title="VARIADOS",Inka TV(PE)
+#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png?width=200&height=200" group-title="VARIADOS",Inka TV (PE)
 https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg?width=200&height=200" group-title="CINE",Rakuten Action Movies Spain
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg?width=200&height=200" group-title="VARIADOS",Rakuten Action
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es" tvg-logo="https://i.imgur.com/eQKFgpa.png?width=200&height=200" group-title="CINE",Rakuten Comedy Movies Spain
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es" tvg-logo="https://i.imgur.com/eQKFgpa.png?width=200&height=200" group-title="VARIADOS",Rakuten Comedn
 https://rakuten-comedymovies-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVSpotlightSpain.es" tvg-logo="https://i.imgur.com/dWNxCqp.png?width=200&height=200" group-title="CINE",Rakuten Spotlight Spain
+#EXTINF:-1 tvg-id="RakutenTVSpotlightSpain.es" tvg-logo="https://i.imgur.com/dWNxCqp.png?width=200&height=200" group-title="VARIADOS",Rakuten Spotlight
 https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCGTV.mx" tvg-logo="https://api.rcgmedia.mx/uploads/thumbnail_logo_rcg_media_250_1_69610a5309.png?width=200&height=200" group-title="VARIADOS",RCG TV (MX)
@@ -251,25 +248,25 @@ https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
 #EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur (Ilo)
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 
-#EXTINF:-1 tvg-id="TelesurMoquegua.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur (Moquegua)
+#EXTINF:-1 tvg-id="TelesurMoquegua.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur Moquegua
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
 
-#EXTINF:-1 tvg-id="TelesurMollendo.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur (Mollendo)
+#EXTINF:-1 tvg-id="TelesurMollendo.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur Mollendo
 https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
 
-#EXTINF:-1 tvg-id="TelesurCamana.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur (Camana)
+#EXTINF:-1 tvg-id="TelesurCamana.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur Camana
 https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 
-#EXTINF:-1 tvg-id="TelesurTacna.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur (Tacna)
+#EXTINF:-1 tvg-id="TelesurTacna.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur Tacna
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 
-#EXTINF:-1 tvg-id="TelesurArequipa.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur (Arequipa)
+#EXTINF:-1 tvg-id="TelesurArequipa.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur Arequipa
 https://1667517699.rsc.cdn77.org/hls/arequipa.m3u8
 
-#EXTINF:-1 tvg-id="TelesurArequipa.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="NOTICIAS",Expresion (TV Ilo)
+#EXTINF:-1 tvg-id="TelesurArequipa.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="NOTICIAS",Expresion TV Ilo
 https://1667517699.rsc.cdn77.org/hls/radioilo.m3u8
 
-#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png?width=200&height=200" group-title="CINE",Top Cine
+#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png?width=200&height=200" group-title="VARIADOS",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 #EXTINF:-1 tvg-id="TPTOChannel.pe" tvg-logo="https://i.imgur.com/pjcWDJW.png?width=200&height=200" group-title="MUSICALES",TPTO TV (PE)
