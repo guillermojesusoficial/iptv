@@ -101,7 +101,7 @@ https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e6ab266e8f97705b64c0e1d7c0da2ab1.png?width=200&height=200" group-title="NOTICIAS" ,Onda Digital Perú
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL" ,Cartoon Network Latino
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL" ,Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png?width=200&height=200" group-title="VARIADOS" ,Top Latino TV Perú
@@ -176,7 +176,7 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="MUSICALES",Planetatv Music
 https://scl.edge.grupoz.cl/music/live/chunklist_w380869176.m3u8
 
-#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="VARIADOS",Planetatv Movie
+#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="VARIADOS",Planetatv Cine
 https://scl.edge.grupoz.cl/movie/live/chunklist_w1180151846.m3u8
 
 #EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="INFANTIL",Planetatv Kids
