@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-logo="https://willax.pe/img/footer-logo.png?width=200&height=200" group-title="NOTICIAS" ,Willax TV (PE)
 https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmgvXGbqoEm0SrN7wYzFEgo6yOMaNorEAkC_tmLSbYHKR)/dm/3/x7x4dgx/s/live-1.m3u8
 
+#EXTINF:-1 tvg-logo="hhttps://www.latina.pe/wp-content/themes/genesis-latina/img/logo-movil.png?V3?width=200&height=200" group-title="NOTICIAS" ,Latina TV (PE)
+https://livev2-latina-mdstrm.secure2.footprint.net/token=ip=179.6.169.178~nva=1675030420~dirs=4~hash=009deac148a1afd087ae9/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
+
 #EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20230129?width=200&height=200" group-title="NOTICIAS" ,Panamericana TV SD (PE)
 https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFo4JpZ1SybkNbYortE_DTpnhZ4XGqot6SeKK0oc7ofUy)/dm/3/x774s7s/s/live-3.m3u8
 
