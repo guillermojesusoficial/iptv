@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-logo="https://willax.pe/img/footer-logo.png?width=200&height=200" group-title="NOTICIAS" ,Willax TV (PE)
 https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmgvXGbqoEm0SrN7wYzFEgo6yOMaNorEAkC_tmLSbYHKR)/dm/3/x7x4dgx/s/live-1.m3u8
 
+#EXTINF:-1 tvg-logo="https://betheltv.tv/media/2022/12/logo_bethel.png?width=200&height=200" group-title="RELIGION" ,Bethel TV (PE)
+https://d2ofok0g2ikqmc.cloudfront.net/out/v1/31a4166df3804e828624094974ab3143/index.mpd
+
 #EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20230129?width=200&height=200" group-title="NOTICIAS" ,Panamericana TV SD (PE)
 https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFo4JpZ1SybkNbYortE_DTpnhZ4XGqot6SeKK0oc7ofUy)/dm/3/x774s7s/s/live-3.m3u8
 
