@@ -1,11 +1,11 @@
 
-#EXTINF:-1 tvg-logo="https://betheltv.tv/media/2022/12/logo_bethel.png?width=200&height=200" group-title="RELIGION" ,Bethel TV (PE)
+#EXTINF:-1 tvg-logo="https://betheltv.tv/media/2022/12/logo_bethel.png?width=200&height=200" group-title="VARIADOS" ,Bethel TV (PE)
 https://d2ofok0g2ikqmc.cloudfront.net/out/v1/31a4166df3804e828624094974ab3143/index.mpd
 
-#EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20230129?width=200&height=200" group-title="NOTICIAS" ,Panamericana TV (PE)
+#EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20230129?width=200&height=200" group-title="VARIADOS" ,Panamericana TV (PE)
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/4d6efdcb678afcea5b225ed4b8ad2036.png?width=200&height=200" group-title="NOTICIAS" ,Best Cable TV Perú
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/4d6efdcb678afcea5b225ed4b8ad2036.png?width=200&height=200" group-title="VARIADOS" ,Best Cable TV Perú
 https://ca2.inka.net.pe/bestcable/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png?width=200&height=200" group-title="DEPORTES" ,Best Cable Sports Perú
@@ -23,7 +23,7 @@ https://ca2.inka.net.pe/bestcablehatuntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png?width=200&height=200" group-title="VARIADOS" ,Autentica TV
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png?width=200&height=200" group-title="DEPORTES" ,Contacto Deportivo
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/7787d1d2ab3382cc09d2c3fa9bb8720d.png?width=200&height=200" group-title="VARIADOS" ,Contacto TV
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/ff4a1765643e8c760881b4ca5ed2da18.png?width=200&height=200" group-title="VARIADOS" ,CR TV
@@ -95,7 +95,7 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-oIEzY0G7pYY/XbI3QjoY6OI/AAAAAAAArqw/caCNpRl6FRoMHn1l0F-Tc9HmhrZRtxgggCK8BGAsYHg/s0/2019-10-24.png" group-title="INFANTIL" ,Canal IPe Perú
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dfmlV2X9BOw/Xxzw0ylSyII/AAAAAAAA3bM/b8nXIhkHQrcs9nR-mDVKPpmN08GRcrakQCK8BGAsYHg/s0/2020-07-25.png?width=200&height=200" group-title="DEPORTES" ,Ovacion
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dfmlV2X9BOw/Xxzw0ylSyII/AAAAAAAA3bM/b8nXIhkHQrcs9nR-mDVKPpmN08GRcrakQCK8BGAsYHg/s0/2020-07-25.png?width=200&height=200" group-title="VARIADOS" ,Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GalacticaTV.pe" tvg-logo="https://i.imgur.com/ffhT11J.png?width=200&height=200" group-title="VARIADOS",Galáctica TV
@@ -104,7 +104,7 @@ https://pacific.direcnode.com:3715/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg?width=200&height=200" group-title="MUSICALES" ,Karibeña TV
 https://cu.onliv3.com/livevd/user1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/e6ab266e8f97705b64c0e1d7c0da2ab1.png?width=200&height=200" group-title="NOTICIAS" ,Onda Digital Perú
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/e6ab266e8f97705b64c0e1d7c0da2ab1.png?width=200&height=200" group-title="VARIADOS" ,Onda Digital Perú
 https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL" ,Cartoon Network
@@ -164,7 +164,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NacionalTV.pe" tvg-logo="https://i.imgur.com/YbyjNgU.png?width=200&height=200" group-title="VARIADOS",Nacional TV (PE)
 https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png?width=200&height=200" group-title="NOTICIAS",Nativa TV (PE)
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png?width=200&height=200" group-title="VARIADOS",Nativa TV (PE)
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
 #EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/CtPwUdL.png?width=200&height=200" group-title="RELIGION",Nazarenas TV (PE)
@@ -215,7 +215,7 @@ https://rakuten-spotlight-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCGTV.mx" tvg-logo="https://api.rcgmedia.mx/uploads/thumbnail_logo_rcg_media_250_1_69610a5309.png?width=200&height=200" group-title="VARIADOS",RCG TV (MX)
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RCKTV.cl" tvg-logo="https://rcktv.cl/wp-content/uploads/2021/02/cropped-cropped-cropped-LOGO-RCKTV-1.jpg?width=200&height=200" group-title="MUSICALES",RCK TV (CL)
+#EXTINF:-1 tvg-id="RCKTV.cl" tvg-logo="https://rcktv.cl/wp-content/uploads/2021/02/cropped-cropped-cropped-LOGO-RCKTV-1.jpg?width=200&height=200" group-title="VARIADOS",RCK TV (CL)
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCR.pe" tvg-logo="https://i.imgur.com/DvRbrFy.png?width=200&height=200" group-title="NOTICIAS",Red de Comunicación Regional (PE)
@@ -272,7 +272,7 @@ https://1667517699.rsc.cdn77.org/hls/radioilo.m3u8
 #EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png?width=200&height=200" group-title="VARIADOS",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-id="TPTOChannel.pe" tvg-logo="https://i.imgur.com/pjcWDJW.png?width=200&height=200" group-title="MUSICALES",TPTO TV (PE)
+#EXTINF:-1 tvg-id="TPTOChannel.pe" tvg-logo="https://i.imgur.com/pjcWDJW.png?width=200&height=200" group-title="VARIADOS",TPTO TV (PE)
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TropicalTV.pe" tvg-logo="https://tvhdtropical.com/wp-content/uploads/2022/09/LOGO-DE-TV-HD-TROPICAL.png?width=200&height=200" group-title="VARIADOS",Tropical TV (Puerto Maldonado)
