@@ -77,6 +77,9 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo_sitePlus.png?width=200&height=200" group-title="VARIADOS" ,ATV+
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png?width=200&height=200" group-title="VARIADOS" ,ATV Sur
+https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/atv/atvsur1/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://statics.exitosanoticias.pe/exitosa/img/global/exitosa.svg?width=200&height=200" group-title="NOTICIAS" ,Exitosa TV
 https://cu.onliv3.com/livevd1/user2.m3u8
 
