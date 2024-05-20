@@ -1,35 +1,19 @@
-#EXTINF:-1 tvg-logo="https://assetsmain.latina.pe/wp-content/themes/genesis-latina/img/logo_latina_menu_nuevo.png?width=200&height=200" group-title="VARIADOS" ,Latina
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
-#EXTINF:-1 tvg-logo="https://www.latincable.pe/images/logo.png?width=200&height=200" group-title="VARIADOS" ,Latin Cable
-https://mserver.latincable.net/LatinTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru-2048x585.png?width=200&height=200" group-title="VARIADOS" ,TV PERU
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+
+#EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru-2048x585.png?width=200&height=200" group-title="VARIADOS" ,TV PERU NOTICIAS
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://cableperu.pe/wp-content/uploads/2021/12/Logo_blanco_CablePeru-2048x585.png?width=200&height=200" group-title="VARIADOS" ,Cable Peru TV
 https://video2.lhdserver.es/cableperu/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20230129?width=200&height=200" group-title="VARIADOS" ,Panamericana TV
-https://cdn75.iblups.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/3.png?width=200&height=200" group-title="VARIADOS" ,Best TV
-https://mi.godo.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8?remote=200.48.243.202&token=dd2f75b096fa435bf4fa0712c585b6c1ceb98c79-2e56e3e3c357826a2487de6b9bce7d32-1697394591-1697383791
-
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/6.png?width=200&height=200" group-title="DEPORTES" ,Best Cable Sports Perú
-https://mi.godo.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8?remote=200.48.243.202&token=34a924cc2f77f6f7ce6dbfe4d2af095b9d884abe-8ecebcf3c572ce954b78b05c67b335ee-1697394664-1697383864
-
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/97.png?width=200&height=200" group-title="MUSICALES" ,Best Cable Music Perú
-https://mi.godo.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8?remote=200.48.243.202&token=875ab57a964aecf6931d82a0558cd8e26009ad77-34620545e52244a0339b41c1333b14d2-1697394699-1697383899
-
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/98.png?width=200&height=200" group-title="MUSICALES" ,+Cumbia TV Perú
-https://mi.godo.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8?remote=200.48.243.202&token=eb9217aa000278887fd61ea0ff0a7eea4f09fd83-d4bbd75927de2a102314c7292fc962d2-1697394727-1697383927
-
-#EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/99.png?width=200&height=200" group-title="MUSICALES" ,Hatun TV Perú
-https://mi.godo.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8?remote=200.48.243.202&token=8ee52cac7de242f1d35a9d09f2a11b9763e34fff-b29aebfba2b616228775afaf85ef50a2-1697394752-1697383952
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/0eced46643f53066ae90b546061ced0a.png?width=200&height=200" group-title="VARIADOS" ,Autentica TV
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/ff4a1765643e8c760881b4ca5ed2da18.png?width=200&height=200" group-title="VARIADOS" ,CR TV
-https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="GeniosTV.pe" tvg-logo="https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png?width=200&height=200" group-title="VARIADOS" ,Genios TV
 https://live.obslivestream.com/geniostvmux/tracks-v1a1/mono.m3u8
@@ -43,35 +27,6 @@ https://live.obslivestream.com/planetatv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="MayoTV.pe" tvg-logo="https://i2.paste.pics/35046bd4f63cebcf522e4cd2981e262b.png?width=200&height=200" group-title="VARIADOS" ,Via Alto Mayo TV
 https://live.obslivestream.com/viaaltomayomux/tracks-v3a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="mas1tv.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/mas1.png?width=200&height=200" group-title="VARIADOS" ,Mas 1 TV
-https://live.obslivestream.com/mas1/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="mayotv.pe" tvg-logo="https://playmax.tv/wp-content/uploads/2023/01/mayotv.png?width=200&height=200" group-title="VARIADOS" ,Mayo TV
-https://live.obslivestream.com/mayotv/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="norselvatv.pe" tvg-logo="https://www.radiotvnorselva.com/wp-content/uploads/2022/05/LOGO-NORSELVA.png?width=200&height=200" group-title="VARIADOS" ,NorSelva TV
-https://live.obslivestream.com/norselvatv/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="sanjuaneraTV.pe" tvg-logo="https://i2.paste.pics/ced9b0fa2a3cca58bcc8b85fe70f21df.png?width=200&height=200" group-title="VARIADOS",Sanjuanera TV
-https://live.obslivestream.com/sanjuanera/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="VARIADOS" ,ATV
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV3/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo_sitePlus.png?width=200&height=200" group-title="VARIADOS" ,ATV+
-https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/ATVmas/ATVmas1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.atv.pe/wp-content/uploads/2023/03/logo_atvSur_naranja-1.png?width=200&height=200" group-title="VARIADOS" ,ATV Sur
-https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/ATVSur/ATVSur2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png?width=200&height=200" group-title="VARIADOS" ,TV Perú
-https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png?width=200&height=200" group-title="NOTICIAS" ,TV Perú Noticias
-https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_INTERNACIONAL_PLAY.png?width=200&height=200" group-title="NOTICIAS" ,TV Perú Internacional
-https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dfmlV2X9BOw/Xxzw0ylSyII/AAAAAAAA3bM/b8nXIhkHQrcs9nR-mDVKPpmN08GRcrakQCK8BGAsYHg/s0/2020-07-25.png?width=200&height=200" group-title="VARIADOS" ,Ovacion
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -79,23 +34,6 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bestcableperu.com.pe/img/canales/90.png?width=200&height=200" group-title="MUSICALES" ,Karibeña TV
 https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w1600556500.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/e6ab266e8f97705b64c0e1d7c0da2ab1.png?width=200&height=200" group-title="VARIADOS" ,Onda Digital Perú
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w1950755721.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL" ,Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL" ,Cartoon Network Looney Tunes
-https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="INFANTIL" ,Cartoon Network 24 horas
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png?width=200&height=200" group-title="VARIADOS" ,Top Latino TV
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/chunklist_w2074627226.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/XxFCEKJpP90EUgqQW19erbUETa-hnSSb_DylrwL1V4h-GetI0epjeCSVhTvrN0wrmfPv0xgG7A=s176-c-k-c0x00ffffff-no-rj?width=200&height=200" group-title="VARIADOS" ,BH TV
-https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png?width=200&height=200" group-title="VARIADOS" ,WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
@@ -115,14 +53,6 @@ https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 tvg-id="LaUrbanTV.es" tvg-logo="https://i.imgur.com/01UcUcX.png?width=200&height=200" group-title="VARIADOS",La Urban TV
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-logo="https://lh3.googleusercontent.com/-ubba7Fazm30/XoKEe8ipZUI/AAAAAAAAxVg/eijnSgeRNh0-NC9FCmLK4kGJxVnVjYZwQCK8BGAsYHg/s0/2020-03-30.png?width=200&height=200" group-title="DEPORTES",Monterrico TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MulticanalCatamayo.ec" tvg-logo="https://i.imgur.com/qUZW3xI.png?width=200&height=200" group-title="VARIADOS",Multicanal Catamayo
-https://multicanal.streamseguro.com/hls/streaming.m3u8
-
-#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png?width=200&height=200" group-title="MUSICALES",MusicTop (ARG)
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTimemovienetworkMexico.mx" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmjlyimijy1j8jdjgrs3eyx5g0if7icg9st0.png?width=200&height=200" group-title="VARIADOS",MyTime movie network Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -131,10 +61,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png?width=200&height=200" group-title="VARIADOS",Nativa TV (PE)
-https://servilive.com:3449/live/mlecaroslive.m3u8
-
-#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://i.imgur.com/CtPwUdL.png?width=200&height=200" group-title="RELIGION",Nazarenas TV (PE)
-https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
+https://www.ntv.pe/salida/nativa.m3u8
 
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="https://i.imgur.com/exdDHml.png?width=200&height=200" group-title="RELIGION",Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
@@ -145,20 +72,9 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Pequeradio.es" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png?width=200&height=200" group-title="INFANTIL",Pequeradio
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="MUSICALES",Planetatv Music
-https://scl.edge.grupoz.cl/music/live/chunklist_w380869176.m3u8
+#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="MUSICALES",Planeta TV (CL)
+https://scl.edge.grupoz.cl/planetatv_envivo/live/chunklist_w1907374648.m3u8
 
-#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="VARIADOS",Planetatv Movie
-https://scl.edge.grupoz.cl/movie/live/chunklist_w1180151846.m3u8
-
-#EXTINF:-1 tvg-id="PlanetaTVKids.cl" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/06/PLANETA-TV-LOGO-TEXTO.png?width=200&height=200" group-title="INFANTIL",Planetatv Kids
-https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1811679314.m3u8
-
-#EXTINF:-1 tvg-id="radiosanborjatv.com" tvg-logo="https://radiosanborjatv.com/wp-content/uploads/2020/12/LOGO-RSB-TV.png?width=200&height=200" group-title="VARIADOS",Radio San Borja TV (PE)
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://i.imgur.com/CNLFe3r.png?width=200&height=200" group-title="VARIADOS",Inka TV (PE)
-https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesSpain.es" tvg-logo="https://i.imgur.com/uMcwx2p.jpg?width=200&height=200" group-title="VARIADOS",Rakuten Action
 https://rakuten-actionmovies-2-eu.rakuten.wurl.tv/playlist.m3u8
@@ -175,11 +91,8 @@ https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png?width=200&height=200" group-title="NOTICIAS",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur (Ilo)
+#EXTINF:-1 tvg-id="TelesurIlo.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur Ilo
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-
-#EXTINF:-1 tvg-id="TelesurMoquegua.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur Moquegua
-https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
 
 #EXTINF:-1 tvg-id="TelesurMollendo.pe" tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png?width=200&height=200" group-title="VARIADOS",Telesur Mollendo
 https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
@@ -219,11 +132,6 @@ https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200" group-title="RADIO" ,Radio Oxígeno Perú
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/icecast.audio
 
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ZRocknPop/picture?width=200&height=200" group-title="RADIO" ,Radio Z Rock & Pop Perú
-http://167.114.118.120:7440/;.mp3
-
-#EXTINF:-1 radio="true" tvg-logo="https://mmo.aiircdn.com/766/63442c9ecc1cc.png?width=200&height=200" group-title="RADIO" ,Radio Mar
-https://17793.live.streamtheworld.com/CRP_MAR.mp3
 
 #EXTINF:-1 radio="true" tvg-logo="https://www.radio.es/images/broadcasts/0a/03/21104/c44.png?width=200&height=200" group-title="RADIO" ,Radio Moda
 https://18243.live.streamtheworld.com/CRP_MOD.mp3
@@ -236,12 +144,6 @@ https://18813.live.streamtheworld.com/CRP_NQAAC.aac
 
 #EXTINF:-1 radio="true" tvg-logo="https://www.radio.es/images/broadcasts/8e/08/21103/c44.png?width=200&height=200" group-title="RADIO" ,Radio La Innovidable
 https://18703.live.streamtheworld.com/CRP_LIAAC.aac
-
-#EXTINF:-1 radio="true" tvg-logo="https://www.radio.es/images/broadcasts/6f/a4/21101/c44.png?width=200&height=200" group-title="RADIO" ,Radio Oasis
-https://14833.live.streamtheworld.com/CRP_OASAAC.aac
-
-#EXTINF:-1 radio="true" tvg-logo="https://www.radio.es/images/broadcasts/41/3c/21107/c44.png?width=200&height=200" group-title="RADIO" ,Radio Planeta
-https://26293.live.streamtheworld.com/CRP_PLAAAC.aac
 
 
 
@@ -258,8 +160,6 @@ https://i.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6254598f5083f800076d8563" tvg-id="6254598f5083f800076d8563" tvg-chno="726" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Kids" , Bob Esponja Pantalones Cuadrados
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-61f94a2866401100074e9dee" tvg-id="61f94a2866401100074e9dee" tvg-chno="208" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png" group-title="Noticias" , Chilevision Noticias
-https://i.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-62d816fcf24d280008762ee9" tvg-id="62d816fcf24d280008762ee9" tvg-chno="400" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" group-title="Deportes" , La Liga Premier | Paramount+
 https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
